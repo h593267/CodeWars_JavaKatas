@@ -2,6 +2,7 @@ package no.arnemunthekaas;
 
 import java.util.Arrays;
 
+//https://www.codewars.com/kata/515de9ae9dcfc28eb6000001
 public class StringSplit {
 
     public static String[] solution(String str) {
